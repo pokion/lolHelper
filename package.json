@@ -1,0 +1,14 @@
+{
+  "name": "lolhelper",
+  "version": "1.0.0",
+  "description": "Helper for builds in discord",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cezary Bubieniec",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
